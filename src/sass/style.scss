@@ -1,3 +1,2 @@
-body {
-  font-family: 'Manrope', Arial, sans-serif;
-}
+@use '/src/sass/base/variables.scss';
+@use '/src/sass/base/basic.scss';
