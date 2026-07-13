@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1600" height="500" viewBox="0 0 1600 500"
+     role="img" aria-labelledby="title desc">
+  <title id="title">Логотип Кварта</title>
+  <desc id="desc">Оранжевая монограмма KV и тёмная надпись КВАРТА на прозрачном фоне.</desc>
+
+  <!-- Монограмма KV -->
+  <g fill="#F0643D">
+    <!-- Основная стойка K -->
+    <path d="M85 105H140V395H85Z"/>
+    <!-- Верхняя диагональ K -->
+    <path d="M128 250L245 105H315L178 270Z"/>
+    <!-- Нижняя диагональ K -->
+    <path d="M145 255L210 255L315 395H245Z"/>
+    <!-- V -->
+    <path d="M190 205H252L315 330L378 205H440L315 405Z"/>
+  </g>
+
+  <!-- Название -->
+  <text x="505" y="335"
+        fill="#262A2E"
+        font-family="Noto Sans, Arial, sans-serif"
+        font-size="180"
+        font-weight="900"
+        letter-spacing="2">КВАРТА</text>
+</svg>
